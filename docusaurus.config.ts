@@ -45,7 +45,7 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      copyright: `Made with love by volunteers from Southampton Robotics Outreach. Built with Docusaurus.`,
+      copyright: `Made with love by volunteers from <a href="https://roboticsoutreach.org">Southampton Robotics Outreach</a>. Built with <a href="https://docusaurus.io/">Docusaurus</a>.`,
     },
     prism: {
       theme: prismThemes.github,
